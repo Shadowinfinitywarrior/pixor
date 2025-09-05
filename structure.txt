@@ -1,0 +1,40 @@
+pixor/
+├── backend/
+│   ├── config/
+│   │   └── db.js
+│   ├── middleware/
+│   │   └── auth.js
+│   ├── models/
+│   │   ├── User.js
+│   │   ├── Product.js
+│   │   └── Order.js
+│   ├── routes/
+│   │   ├── auth.js
+│   │   ├── products.js
+│   │   └── orders.js
+│   ├── package.json
+│   ├── server.js
+│   └── .env
+├── frontend/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   ├── auth.js
+│   │   ├── userDashboard.js
+│   │   ├── adminDashboard.js
+│   │   └── order.js
+│   ├── index.html
+│   ├── login.html
+│   ├── register.html
+│   ├── userDashboard.html
+│   ├── adminDashboard.html
+│   ├── products.html
+│   ├── checkout.html
+│   ├── aboutus.html
+│   ├── contactus.html
+│   ├── ourbusiness.html
+│   ├── enrichinglives.html
+│   ├── supplier.html
+│   └── careers.html
+├── .env
+└── README.md

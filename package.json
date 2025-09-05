@@ -1,0 +1,15 @@
+{
+  "name": "pixor",
+  "version": "1.0.0",
+  "description": "1. **Install MongoDB**\r    - Ensure MongoDB is running locally (`mongod`) or use MongoDB Atlas.\r    - Update `MONGO_URI` in `backend/.env` if using Atlas.",
+  "main": "migrate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.19.0"
+  }
+}
